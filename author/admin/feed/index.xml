@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; localtest</title>
-	<atom:link href="https://larsingo.github.io/me/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<title>localtest -</title>
+	<atom:link href="https://larsingo.github.io/me/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://larsingo.github.io/me/</link>
 	<description></description>
 	<lastBuildDate>Mon, 20 Jan 2025 14:02:50 +0000</lastBuildDate>
@@ -29,7 +29,9 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://larsingo.github.io/me/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a href="https://larsingo.github.io/me/hello-world/">Hello world!</a> appeared first on <a href="https://larsingo.github.io/me/">localtest</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 
@@ -60,6 +62,7 @@
 
 
 <p></p>
+<p>The post <a href="https://larsingo.github.io/me/hello-world/">Hello world!</a> appeared first on <a href="https://larsingo.github.io/me/">localtest</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://larsingo.github.io/me/hello-world/feed/</wfw:commentRss>
